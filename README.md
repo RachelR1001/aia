@@ -11,6 +11,7 @@ This is an AI interview assistant based on ChatGPT4 that asks users predefined q
 - [Features](#features)
 
 ## Installation
+```
 ├── asr.py #whisper
 ├── interview_assistant.py #Encapsulates the prompt project and data conversion required for the task
 ├── llm.py #general llm
@@ -20,6 +21,7 @@ This is an AI interview assistant based on ChatGPT4 that asks users predefined q
 ├── test.wav
 ├── tts.py #tts
 └── user_input.wav #recording file for user inputs
+```
 
 To get started with AI Assistant, follow these steps:
 1. Clone this repository to your local machine:
