@@ -45,9 +45,13 @@ Request Access to Azure OpenAI Service for Student Account: https://customervoic
 open ~/.zshrc
 ```
 add the following information at the end of the file:
+  
   export AZURE_OPENAI_ENDPOINT="https://yourendpoint.openai.azure.com/"
+  
   export AZURE_LLM_DEPLOY_ID="Your_LLM_Depoly_Id"
+  
   export AZURE_WHISPER_DEPLOY_ID="Your_Whisper_Deploy_Idr"
+ 
   export AZURE_OPENAI_API_KEY="Your_Key"
 
 ```bash
