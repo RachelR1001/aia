@@ -38,6 +38,8 @@ cd aia
   
     
 3. Configure environment variables:
+   Request Access to Azure OpenAI Service for Student Account: https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu
+
 ```bash
 open ~/.zshrc
 ```
