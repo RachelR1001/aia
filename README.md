@@ -74,6 +74,11 @@ python main.py
    
 ![Xnip2024-04-25_05-45-03](https://github.com/RachelR1001/aia/assets/148432322/33c10b0b-cd29-4cc6-a2a7-157367ee9793)
 
+5. Summary
+
+![Xnip2024-04-25_06-05-10](https://github.com/RachelR1001/aia/assets/148432322/a0088b9e-0cec-45df-b8a6-0bdb57345746)
+
+
 ## Features
 - Voice Recognition: AI Assistant can accurately process voice commands.
 - Voice dialogue communication: AI Assistant will ask questions via voice, and the user will also answer via voice
